@@ -1,4 +1,4 @@
-package com.example.dia.gif;
+
 
 import android.content.Context;
 import android.content.IntentFilter;
