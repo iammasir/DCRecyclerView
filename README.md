@@ -1,4 +1,11 @@
 # DCRecyclerView
+
+
+
+![image](https://github.com/iammasir/DCRecyclerView/blob/master/111.gif)
+
+
+
 实现接口
     public interface DCListener{
     
